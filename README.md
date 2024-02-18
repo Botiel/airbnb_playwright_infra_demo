@@ -10,6 +10,7 @@
 - activate venv: source venv/bin/activate or venv\Scripts\activate
 - for mac / linux users: from the terminal →  make install
 - for windows users: from the terminal →  pip install -r requirements.txt →  playwright install
+- Reports and test artifacts will be generated in the end of the test inside pytest_reports folder (video, screenshots, trace file, reports)
 
 
 ---
